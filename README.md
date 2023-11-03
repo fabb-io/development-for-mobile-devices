@@ -10,6 +10,8 @@ The app consist in a Fantasy RPG Gotcha type of app where the protagonists are f
 The main focuses where the idea of the game and to find a solid and catchy game loop.
 The process was kinda hard, but we were so proud of what we ended up with, although the rusult may seems a bit naked, due to the fact that visual effects and animation were not our main concern and how much time consuming was the turn-based combact system.
 
+https://drive.google.com/drive/folders/1K6_lR05KCsU8t-KBle8mBZsKdT2WR6Km?usp=sharing
+
 If you are trying our project:
 the app consist in a demo of a possibile gotcha kind of game, where you can also have your companions join battles in an turn-based combact.
 You are able to navigate through the menus, check your companions, and join battles, commands are all pretty intuitive, be curious to try it. 
