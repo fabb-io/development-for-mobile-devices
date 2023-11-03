@@ -10,6 +10,7 @@ The app consist in a Fantasy RPG Gotcha type of app where the protagonists are f
 The main focuses where the idea of the game and to find a solid and catchy game loop.
 The process was kinda hard, but we were so proud of what we ended up with, although the rusult may seems a bit naked, due to the fact that visual effects and animation were not our main concern and how much time consuming was the turn-based combact system.
 
+Here the link to the files(the project are heavy and git is giving me trouble uploading them):
 https://drive.google.com/drive/folders/1K6_lR05KCsU8t-KBle8mBZsKdT2WR6Km?usp=sharing
 
 If you are trying our project:
